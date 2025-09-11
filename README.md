@@ -2,4 +2,4 @@
 
 Example code, etc, for [https://blog.ysth.info]
 
-Feedback to <sthoenna@gmail.com>
+Feedback to <yitzchakscottthoennes@gmail.com>
